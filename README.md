@@ -1,1 +1,1 @@
-*virtual machine setup*
+vagrant exercise
